@@ -1,7 +1,5 @@
 # QA Automation Demo Project
 
-Automation testing framework created as a portfolio project for QA Engineer positions.
-
 ## Stack
 
 * Python
@@ -30,4 +28,4 @@ pytest
 
 ## CI/CD
 
-Tests run automatically using GitHub Actions on every push.
+Тесты автоматически запускаются при каждом push
