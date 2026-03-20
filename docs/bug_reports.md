@@ -2,22 +2,22 @@
 
 ## Bug 001
 
-Title: Login allows empty password
+Назва: Вход позволяет пустой пароль
 
-Steps to reproduce:
+Шаги для воспроизведения:
 
 1. Open login page
 2. Enter valid username
 3. Leave password empty
 4. Click login
 
-Expected result:
+Ожидаемый результат:
 
-Validation error appears.
+Выводится сообщение о необходимости ввести пароль.
 
-Actual result:
+Фактический результат:
 
-User logged in.
+Пользователь успешно вошёл в систему.
 
-Severity: High  
-Priority: High
+Severity: Высокое  
+Priority: Высокое
