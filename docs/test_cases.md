@@ -1,29 +1,29 @@
 # Test Cases
 
-## Login with valid credentials
+## Логин с верными данными
 
-Steps:
+Шаги:
 
-1. Open login page
-2. Enter valid username
-3. Enter valid password
-4. Click Login
+1. Открыть страницу логина
+2. Ввести правильное имя
+3. Ввести верный пароль
+4. нажать "login"
 
-Expected result:
+Ожидаемый результат:
 
-User successfully logs into the system.
+Пользователь успешно залогинился в системе.
 
 ---
 
-## Login with invalid password
+## Логин с неверными данными
 
-Steps:
+Шаги:
 
-1. Open login page
-2. Enter valid username
-3. Enter invalid password
-4. Click Login
+1. Открыть страницу логина
+2. Ввести неправильное имя
+3. Ввести неверный пароль
+4. нажать "login"
 
-Expected result:
+Ожидаемый результат:
 
-Error message is displayed.
+Выводится сообщение об ошибке.
